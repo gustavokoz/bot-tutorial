@@ -1,5 +1,5 @@
 # bot-tutorial
 <h4>
 pra rodar use esse codigo alem de por token no config.json
-  npm install && node .
+ <br> npm install && node .</br>
 </h4>
